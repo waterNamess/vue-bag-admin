@@ -45,3 +45,6 @@ npm i vue-bag-admin --save
 ### 版权信息
 
 `vue-bag-admin`，是开源免费的，遵循MIT开源协议，意味着您无需支付任何费用，也无需授权，即可将它应用到您的产品中。
+
+![image](https://user-images.githubusercontent.com/128008266/225828589-9be6a0e7-ffa4-4b0f-a295-e8128739df57.png)
+
